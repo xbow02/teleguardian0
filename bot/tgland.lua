@@ -235,7 +235,7 @@ function create_config( )
     "setver",
     "plugins"
     },
-    sudo_users = {0,tonumber(our_id)},--Sudo users
+    sudo_users = {92270080,tonumber(our_id)},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[آموزش ساخت ربات ضد اسپم 
 در کانال زیر 
